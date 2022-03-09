@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'EasyEnemies',
+  title: 'EasyEnemies Beta',
   tagline: 'Make easier enemies on Roblox',
   url: 'https://trendonrobinson.github.io/',
   baseUrl: '/EasyEnemies/',
@@ -57,14 +57,14 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Th3Pr0fessor/EasyEnemies',
             label: 'GitHub',
             position: 'right',
           },
         ],
       },
       footer: {
-        style: 'light',
+        style: 'dark',
         // links: [
         //   {
         //     title: 'Docs',
