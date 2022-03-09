@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.png',
-  organizationName: 'EasyEnemies', // Usually your GitHub org/user name.
+  organizationName: 'Th3Pr0fessor', // Usually your GitHub org/user name.
   projectName: 'EasyEnemies', // Usually your repo name.
 
   presets: [
