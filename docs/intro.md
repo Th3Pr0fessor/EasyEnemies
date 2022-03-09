@@ -19,5 +19,5 @@ To get started visit **[Getting Started](/docs/tutorial-basics/start)**.
 -   [github]
 -   [Roblox Library]
 
-[github]: https://github.com/mkdocs/mkdocs/
-[roblox library]: https://github.com/squidfunk/mkdocs-material
+[github]: https://github.com/Th3Pr0fessor/EasyEnemies
+[roblox library]: https://www.roblox.com/library/9041187417/EasyEnemies
