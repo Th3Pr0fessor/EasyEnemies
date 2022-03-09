@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'EasyEnemies',
   tagline: 'Make easier enemies on Roblox',
-  url: '/EasyEnemies/',
-  baseUrl: '/',
+  url: 'https://trendonrobinson.github.io/',
+  baseUrl: '/EasyEnemies/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.png',
