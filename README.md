@@ -40,6 +40,4 @@ $ GIT_USER=TrendonRobinson npm run deploy
 
 git remote rm origin
 
-git remote add origin https://TrendonRobinson:X200569155x@github.com/Th3Pr0fessor/EasyEnemies.git
-
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
