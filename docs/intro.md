@@ -17,7 +17,7 @@ To get started visit **[Getting Started](/docs/tutorial-basics/start)**.
 ## Links
 
 -   [github]
--   [roblox Library]
+-   [Roblox Library]
 
 [github]: https://github.com/mkdocs/mkdocs/
 [roblox library]: https://github.com/squidfunk/mkdocs-material
