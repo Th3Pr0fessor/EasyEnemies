@@ -8,12 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'EasyEnemies',
   tagline: 'Make easier enemies on Roblox',
-  url: 'https://th3pr0fessor.github.io/',
+  url: 'https://trendonrobinson.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.png',
-  organizationName: 'Th3Pr0fessor', // Usually your GitHub org/user name.
+  organizationName: 'TrendonRobinson', // Usually your GitHub org/user name.
   projectName: 'EasyEnemies', // Usually your repo name.
 
   presets: [
