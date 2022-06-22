@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkeasy_enemies=self.webpackChunkeasy_enemies||[]).push([[595],{613:function(e){e.exports=JSON.parse('{"allTagsPath":"/EasyEnemies/blog/tags","slug":"/EasyEnemies/blog/tags/hello","name":"hello","count":2,"permalink":"/EasyEnemies/blog/tags/hello"}')}}]);
