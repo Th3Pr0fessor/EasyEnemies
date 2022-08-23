@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeasy_enemies=self.webpackChunkeasy_enemies||[]).push([[466],{5802:function(s){s.exports=JSON.parse('{"allTagsPath":"/EasyEnemies/blog/tags","slug":"/EasyEnemies/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/EasyEnemies/blog/tags/docusaurus"}')}}]);
